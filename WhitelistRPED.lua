@@ -4,5 +4,3 @@ local Whitelist = {
 	"BLIKERGAMER",
 	"TDBOX123",
 }
-
-return Whitelist
